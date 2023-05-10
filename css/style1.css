@@ -29,6 +29,12 @@ nav a{
 
     position: absolute;
 }
+/* h3{
+    color: #000;
+    animation-duration: 4s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+} */
 button{
     text-align: center;
     
